@@ -1,0 +1,59 @@
+{
+    "appInfo": {
+        "app_key": "Wsx6uVLYnU0jjZu3USQjdF2QOoagdcwg",
+        "app_name": "高顿ACCA",
+        "app_photo": "https://b.bdstatic.com/searchbox/mappconsole/image/20181121/1542798752363368.jpg",
+        "domains": {
+            "downloadFile": [
+                "https://fapiao.gaodun.com"
+            ],
+            "request": [
+                "https://fapiao.gaodun.com"
+            ],
+            "socket": [
+                "wss://fapiao.gaodun.com"
+            ],
+            "uploadFile": [
+                "https://fapiao.gaodun.com"
+            ]
+        },
+        "isExistsPackage": false,
+        "isTp": false,
+        "needWeb": false,
+        "tpAppId": null,
+        "webAction": [
+            "swan/navigateTo",
+            "swan/navigateBack",
+            "swan/switchTab",
+            "swan/reLaunch",
+            "swan/redirectTo",
+            "swan/postMessage",
+            "swan/previewImage",
+            "swan/getLocation"
+        ],
+        "webview_domains": []
+    },
+    "appid": "19558715",
+    "appkey": "Wsx6uVLYnU0jjZu3USQjdF2QOoagdcwg",
+    "condition": {
+        "swan": {
+            "current": -1,
+            "list": []
+        }
+    },
+    "host": "baiduboxapp",
+    "libVersion": "2.10.16",
+    "projectname": "baidu_applet",
+    "publish": {
+        "version": "1.0.1"
+    },
+    "setting": {
+        "urlCheck": true
+    },
+    "swan": {
+        "baiduboxapp": {
+            "swanJsVersion": "3.180.10",
+            "extensionJsVersion": "1.13.1"
+        }
+    }
+}
